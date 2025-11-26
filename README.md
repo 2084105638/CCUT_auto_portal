@@ -64,5 +64,6 @@ chmod +x portal_deamon.sh
 - 账号、密码、Portal 参数均属于敏感信息，务必限制脚本文件权限。
 - `PING_HOST` 应选择稳定、延迟低的网站以减少误判。
 - 若学校 Portal 参数变更，需要同步更新脚本中的相关字段。
+- 如果你是 windows，请自行参考本仓库代码或 ai 来修改为 bat 脚本，注意使用的 macOS 命令
 
 
